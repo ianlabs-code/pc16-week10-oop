@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "pc16_week10_oop"
+  ],
+  "packages": [
+    {
+      "name": "pc16_week10_oop",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

@@ -1,0 +1,14 @@
+START HERE — PC16 WEEK 10 DART OOP
+
+1. Extract this ZIP archive.
+2. Open the extracted PC16_Week10_OOP_Project folder in VS Code (File > Open Folder).
+3. Open README.md and replace [Enter your section] with your real section.
+4. Open Terminal > New Terminal.
+5. Run: dart --version
+6. Run: dart pub get
+7. Run: dart format .
+8. Run: dart run
+9. Compare the terminal with expected_output.txt.
+10. Review SCREENSHOT_CHECKLIST.md.
+
+Important: This is a new example because no Week 9 source was provided. The Week 10 guide asks to enhance your Week 9 class, so confirm with your instructor that a new example is acceptable if they require your earlier project.

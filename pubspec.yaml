@@ -1,0 +1,7 @@
+name: pc16_week10_oop
+description: PC16 Week 10 Dart OOP activity example
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
