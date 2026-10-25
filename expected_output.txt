@@ -1,9 +1,0 @@
-=== Week 10: Object-Oriented Programming in Dart ===
---- Inheritance and polymorphism ---
-City Car (2022)
-City Car drives on four wheels and has 4 doors.
-Street Motorcycle (2024)
-Street Motorcycle rides on two wheels.
---- Mixin outside the Vehicle hierarchy ---
-NTC Service Center is servicing City Car.
-Maintenance recorded for City Car.
